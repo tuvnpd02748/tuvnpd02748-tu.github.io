@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+
+}
+.nenanhtop{
+	background-image: url('https://i.pinimg.com/originals/53/0a/74/530a746087d021696f38e010ff8c3112.jpg');
+	width: 100%;
+	height: 700px;
+	padding-top: 100px;
+}
+.noidung{
+	padding-top: 200px;
+	color: white;
+	font-weight: bold;
+}
+.chunho{
+	color: white
+}
+.nut{
+	color: white;
+	padding-top: 30px;
+}
+/*.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1260px;
+}*/
+.khoichu{
+	padding-top: 20px;
+	background-color: #EEEEEE;
+	text-align: center;
+}
+.nencuoi{
+	padding-top: 20px;
+	height: 200px;
+	background-image: url('https://images.pexels.com/photos/684387/pexels-photo-684387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+}
+.nencuoi .chucuoi h2{
+	padding-top: 50px;
+}
+.fixed-top {
+    height: 59px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 937;
+}
+.bg-dark {
+    background-color: #001427!important;
+}
+
+.footer{
+	background-color: black;
+	height: 30px;
+}
